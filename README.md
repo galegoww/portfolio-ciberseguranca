@@ -1,79 +1,79 @@
-# Everton Macedo | Portfólio de Segurança Cibernética
+# DNS AI Shield Ultra
 
-**Objetivo de carreira:** desenvolver uma base prática para oportunidades iniciais em segurança cibernética, com foco em análise de eventos, controle de acesso e documentação.
+**Um projeto de Everton Macedo que reúne DNS, controle de domínios e uma extensão para o navegador.**
 
-> Portfólio em desenvolvimento. Os estudos de caso usam cenários fictícios e os laboratórios usam dados de exemplo. As evidências das minhas execuções serão adicionadas conforme eu avançar nos estudos.
+[![DNS e Shield: O Ataque do Barão Pop-up](artes/capa-do-curta.png)](videos/desenho-dns-e-shield.mp4)
 
-## Apresentação
+**[BAIXAR PROGRAMA + EXTENSÃO PARA WINDOWS](https://github.com/galegoww/portfolio-ciberseguranca/archive/refs/heads/dns-ai-shield-ultra.zip)**
 
-Tenho ensino médio completo e atuo há seis anos na SintecSoluções. Minha trajetória está ligada à informática e ao suporte técnico. Agora estou ampliando meus conhecimentos com o curso Fundamentos da Segurança Cibernética, do Google, pela Coursera.
+[Ver o desenho animado](videos/desenho-dns-e-shield.mp4) · [Ver o tutorial rápido](videos/como-usar-no-windows.mp4) · [Ver as fotos](#o-programa-em-imagens)
 
-Quero aproximar o que já conheço de tecnologia das práticas de proteção de sistemas e informações. Neste portfólio, organizo meus estudos sobre controle de acesso, redes, análise de eventos e resposta a incidentes.
+## Começar em poucos passos
 
-[Leia minha declaração profissional](01_DECLARACAO_PROFISSIONAL.md).
+1. Baixe o pacote acima e **extraia todo o ZIP**.
+2. Abra **DNS_AI_Shield_Ultra.exe** e aguarde iniciar.
+3. Clique em **Abrir painel**. Mantenha a janela do programa aberta.
+4. No Chrome, entre em `chrome://extensions` e ative **Modo do desenvolvedor**.
+5. Clique em **Carregar sem compactação**, selecione a pasta **extensao** do pacote e abra a extensão para conferir **Servidor: OK**.
 
-## Projetos e documentos
+O pacote já inclui o EXE e os arquivos da extensão. Para usar essa versão, não é necessário instalar Python nem abrir um terminal. Para encerrar o serviço, feche a janela do programa.
 
-| Item | Entrega | Natureza |
-| --- | --- | --- |
-| [01. Declaração profissional](01_DECLARACAO_PROFISSIONAL.md) | Apresentação, objetivos e princípios | Apresentação profissional |
-| [02. Auditoria de segurança](02_AUDITORIA.md) | Escopo, evidências fictícias e plano de ação | Estudo de caso |
-| [03. Segurança de redes](03_REDES.md) | Fluxos, segmentação e regras defensivas | Proposta simulada |
-| [04. Permissões no Linux](04_LINUX.md) | Laboratório isolado e resultado verificável | Exercício reproduzível |
-| [05. Filtros SQL](05_SQL.md) | Base SQLite, consultas e interpretação | Exercício reproduzível |
-| [06. Vulnerabilidades](06_VULNERABILIDADES.md) | Registro de riscos e prioridades | Estudo de caso |
-| [07. Diário de incidentes](07_INCIDENTES.md) | Linha do tempo, investigação e encerramento | Simulação |
-| [08. Análise com Python](08_PYTHON.md) | Leitura de logs, tratamento de erros e alertas | Exercício reproduzível |
-| [09. Currículo](CURRICULO.md) | Currículo em atualização | Rascunho com campos pendentes |
+**[Assistir ou baixar o vídeo de instalação — 3min08s](https://github.com/galegoww/portfolio-ciberseguranca/raw/refs/heads/dns-ai-shield-ultra/videos/como-usar-no-windows.mp4)**
 
-## Executar os exercícios
+## A aventura de DNS e Shield
 
-SQL e Python precisam apenas de Python 3 com biblioteca padrão. Abra o terminal dentro desta pasta:
+Na cidade de Conexão, DNS trabalha levando mensagens até seus destinos. Tudo muda quando o Barão Pop-up decide cobrir o caminho com anúncios invasivos. É hora de chamar Shield e colocar ordem na bagunça!
 
-```bash
-python3 executar.py
-python3 analisar.py
-```
+Um curta de animação de recortes em 2D, com personagens originais, vozes em português, legendas, música e efeitos sonoros. Duração: **1min44s**.
 
-No Windows, se necessário, troque `python3` por `py -3`. O laboratório de permissões requer Linux e Bash:
+**[Assistir ou baixar o desenho animado](https://github.com/galegoww/portfolio-ciberseguranca/raw/refs/heads/dns-ai-shield-ultra/videos/desenho-dns-e-shield.mp4)**
 
-```bash
-bash laboratorio.sh
-```
+[Leia a história completa](historia/historia.md) · [Legendas em português](historia/legendas-desenho.srt) · [Créditos e criação](historia/creditos-e-criacao.md)
 
-As instruções e os resultados esperados estão nos documentos numerados acima. Os scripts e dados ficam na raiz do repositório. Não é necessário instalar pacotes Python, usar credenciais, acessar serviços ou examinar máquinas de terceiros.
+O desenho é uma fantasia inspirada no projeto. Os personagens não representam uma demonstração técnica do software.
 
-## Próximos passos
+## O programa em imagens
 
-1. Revisar nome, objetivos e declaração profissional.
-2. Completar os campos pendentes do currículo; o curso do Google está em andamento.
-3. Executar os três laboratórios e guardar saídas próprias com data, ambiente e interpretação.
-4. Reescrever as conclusões com suas palavras e explicar cada comando.
-5. Revisar os dados pessoais e atualizar as evidências antes de compartilhar novas versões.
+### O executável
 
-[Registro de validação técnica](VALIDACAO.md)
+![Executável selecionado na pasta](imagens/01-captura.png)
 
+### Janela de início e botão Abrir painel
 
-## Formação e contato profissional
+![Janela do DNS AI Shield Ultra](imagens/02-captura.png)
 
-- Ensino médio completo.
-- Seis anos de atuação na SintecSoluções.
-- Fundamentos da Segurança Cibernética — Google, pela Coursera (em andamento).
-- Site profissional: https://www.simtecsolucoes.com/
-- Contato divulgado no site: (46) 99113-3227.
+### Dashboard aberta
 
-## Organização dos arquivos
+![Painel e janela do programa](imagens/03-captura.png)
 
-Os documentos numerados reúnem as explicações dos projetos. `CURRICULO.md` contém o currículo. Os scripts `laboratorio.sh`, `executar.py` e `analisar.py` usam os arquivos de exemplo na mesma pasta. Essa organização permite baixar o repositório e executar os comandos acima sem reorganizar arquivos.
+### Extensão conectada
 
-## Evidências e ferramentas
+![Extensão DNS AI Shield Pro mostrando servidor disponível](imagens/04-captura.png)
 
-Os exercícios usam Bash e ferramentas GNU no Linux, Python 3 e SQLite da biblioteca padrão. Ainda preciso acrescentar as evidências das minhas próprias execuções. Para cada uma, registrarei data, ambiente, comando, resultado e conclusão. Antes de compartilhar, revisarei os arquivos para remover dados pessoais e credenciais.
+### Visão da dashboard
 
-## Projetos de desenvolvimento
+![Dashboard do DNS AI Shield Ultra](imagens/05-captura.png)
 
-- [DNS Monitor de Anúncios](https://github.com/galegoww/dns-monitor-anuncios.): revisão de domínios, atualização de banco SQLite e decisões de bloqueio e desbloqueio.
-- [DNS AI Shield Pro](https://github.com/galegoww/dns-monitor-anuncios./tree/main/extensao): extensão para navegadores Chromium integrada ao servidor local `app.py`, com chave de acesso e decisões manuais. API testada automaticamente; validação completa em navegador real ainda pendente.
-- [Guia de instalação no Windows](https://github.com/galegoww/dns-monitor-anuncios./blob/main/INSTALACAO_WINDOWS.md): pré-requisitos e instruções de uso de cada parte do projeto.
+As capturas foram fornecidas pelo autor. Os números exibidos são os daquele momento e não constituem uma validação de bloqueio ou reputação de todos os domínios.
 
-- [Opção executável para Windows](https://github.com/galegoww/dns-monitor-anuncios./blob/main/EXECUTAVEL_WINDOWS.md): montagem do pacote portátil e situação do download do EXE.
+## Personagens e artes
+
+![DNS, Shield e o Barão Pop-up](artes/personagens-dns-shield-barao.png)
+
+- **DNS:** o mensageiro que conhece os caminhos da cidade.
+- **Shield:** o guardião que entra em ação contra os anúncios invasivos da história.
+- **Barão Pop-up:** o vilão que aparece quando ninguém o chamou.
+
+[Ver o cenário da cidade de Conexão](artes/cidade-conexao.png)
+
+## Sobre esta versão
+
+Esta publicação reúne o programa Ultra enviado pelo autor, a extensão original 1.7 e os materiais de apresentação aprovados. O histórico inicial embutido no EXE foi removido da cópia pública. Os arquivos de código e bibliotecas do executável foram preservados.
+
+**A cópia pública do EXE ainda não foi executada em Windows neste ambiente.** A extensão original aplica até 5.000 regras; o total do banco não equivale ao número de bloqueios confirmados. O modelo é experimental, e seus rótulos não comprovam presença de malware. O programa não muda automaticamente o DNS do Windows.
+
+[Notas da versão e conferências realizadas](NOTAS-DA-VERSAO.md) · [Instruções em texto](COMECE-AQUI.txt) · [Hashes dos arquivos](SHA256.json) · [Fontes de referência](fontes/)
+
+---
+
+Projeto de **Everton Macedo** · [Meu portfólio de segurança cibernética](https://github.com/galegoww/portfolio-ciberseguranca)

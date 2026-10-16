@@ -1,3 +1,0 @@
-# Declaração profissional
-
-Atuo há seis anos na SintecSoluções, na área de informática e suporte técnico, e estou cursando Fundamentos da Segurança Cibernética, do Google, pela Coursera, para ampliar meus conhecimentos sobre proteção de sistemas e informações. Valorizo a privacidade e a responsabilidade no uso da tecnologia e quero desenvolver minha capacidade de analisar problemas, identificar riscos e documentar soluções com clareza. Meu interesse é unir minha experiência prática aos conhecimentos de segurança que estou adquirindo para ajudar organizações a reduzir vulnerabilidades, proteger dados e manter seus serviços disponíveis.

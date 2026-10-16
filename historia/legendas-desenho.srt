@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:06,967
+Narradora: Na cidade de Conexão, cada mensagem tinha um destino. E DNS conhecia o caminho!
+
+2
+00:00:07,067 --> 00:00:12,633
+DNS: Entrega saindo! Mais uma página chegando! Tudo tranquilo por aqui!
+
+3
+00:00:12,733 --> 00:00:22,567
+Barão Pop-up: Tranquilo? Não por muito tempo! Eu sou o Barão Pop-up! Minha especialidade é aparecer quando ninguém me chamou!
+
+4
+00:00:22,667 --> 00:00:29,967
+Narradora: Com uma gargalhada, o vilão espalhou anúncios invasivos. As janelas pulavam por toda parte!
+
+5
+00:00:30,067 --> 00:00:36,167
+DNS: Ei! Estão atrapalhando minhas entregas! Shield! Precisamos de você!
+
+6
+00:00:36,267 --> 00:00:43,567
+Shield: Pode deixar, parceiro. Aqui, quem escolhe o que entra é o usuário!
+
+7
+00:00:43,667 --> 00:00:51,367
+Barão Pop-up: Quero ver segurar meu ataque de janelas sem fim! Pop! Pop! Pop!
+
+8
+00:00:51,467 --> 00:01:01,300
+Shield: DNS, organize os caminhos! Eu cuido do escudo. Anúncio invasivo, acesso negado!
+
+9
+00:01:01,400 --> 00:01:08,167
+Narradora: As janelas bateram no escudo e voltaram para o vilão. Até o chapéu do Barão começou a tremer!
+
+10
+00:01:08,267 --> 00:01:17,433
+Barão Pop-up: Isso não vale! Minha propaganda era... irresistível! Tá bom, tá bom! Estou indo embora!
+
+11
+00:01:17,533 --> 00:01:23,767
+DNS: Caminho livre! Agora sim, cada mensagem no seu lugar. Valeu, Shield!
+
+12
+00:01:23,867 --> 00:01:32,167
+Shield: Juntos somos melhores. E lembre: navegar com atenção também faz parte da proteção!
+
+13
+00:01:32,267 --> 00:01:40,933
+Narradora: DNS e Shield: uma dupla contra a bagunça digital. Uma aventura inspirada no projeto de Everton Macedo.

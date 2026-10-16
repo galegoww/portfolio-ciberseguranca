@@ -1,0 +1,146 @@
+{
+  "COMECE-AQUI.txt": {
+    "bytes": 1365,
+    "sha256": "eb6a888a241598d7d000e902e77fc7b36efee86b76ec8f89eaa1ba179677220c"
+  },
+  "DNS_AI_Shield_Ultra.exe": {
+    "bytes": 78336,
+    "sha256": "3b65b541149b384d8f2075a37681df929606285b73b8556053cf0cbb3a634d8c"
+  },
+  "NOTAS-DA-VERSAO.md": {
+    "bytes": 2780,
+    "sha256": "d6ee0e3e4bf06f7a85d2cb637d227767fcb7541d497d8ca20cd65fcae8a61423"
+  },
+  "README.md": {
+    "bytes": 4173,
+    "sha256": "b088e3b636bb9422e36765a2d3d2d0aa38ebd0ae098535e8037089f4170afe06"
+  },
+  "artes/capa-do-curta.png": {
+    "bytes": 1459799,
+    "sha256": "544f8d24f65b164cf35c4557e4f7d9f778d51abff48c01f3cb2f9cac56c5d29a"
+  },
+  "artes/cidade-conexao.png": {
+    "bytes": 2207283,
+    "sha256": "5cc0e0047833b9948ef4618c393062e4f5f77454ebe5d26b6ef9317a9a1faf23"
+  },
+  "artes/personagens-dns-shield-barao.png": {
+    "bytes": 2029792,
+    "sha256": "16fa447565c7b9a2db29c1a7157741f623164cb50edc836ad03ff1c003145c2b"
+  },
+  "dados_programa/shield.part01": {
+    "bytes": 16777216,
+    "sha256": "d5e49748af07277e457d17dddc239e1638e16b2aa8ede795348a9c34e196191b"
+  },
+  "dados_programa/shield.part02": {
+    "bytes": 16777216,
+    "sha256": "96bc56a752b55367e2388358d88b7698e3a88bbdbb7f28d43e28cda035ebaeff"
+  },
+  "dados_programa/shield.part03": {
+    "bytes": 16777216,
+    "sha256": "eff146aefb7f4f9b62f05bacfd04f8c8f3b4208bab5372dc798640dfcdfafb9c"
+  },
+  "dados_programa/shield.part04": {
+    "bytes": 16777216,
+    "sha256": "90a7bacecae37371cee0855b8ab2ff5815a4bd11463434bcdcbd5fb4d99e00ab"
+  },
+  "dados_programa/shield.part05": {
+    "bytes": 16777216,
+    "sha256": "aff93a7969955699fa60d760d09d9fe626bcd6313f09ff63719317a6267e9605"
+  },
+  "dados_programa/shield.part06": {
+    "bytes": 9858259,
+    "sha256": "aee425fb539cda79288e3359af1571810d6e0e6643c1ffe878c0b042927d0622"
+  },
+  "extensao/background.js": {
+    "bytes": 1434,
+    "sha256": "36bae7776522e0d96a7307769bb437d4abf9d229f04be620c15f8b3e0517787a"
+  },
+  "extensao/content.js": {
+    "bytes": 2192,
+    "sha256": "8137f898c892e5bb2a3d6ed08e06b5dc8b4a1ee747213c7a532fc36c272e81d9"
+  },
+  "extensao/icon128.png": {
+    "bytes": 20328,
+    "sha256": "9669995e1e15616f6ec56d163182d2fcc5826f974babcc22df1cb8f277ed959c"
+  },
+  "extensao/icon16.png": {
+    "bytes": 663,
+    "sha256": "20ffcd70cad7cd06a8724ccc47256a87e8f5d8eadbeccae2f51fb4ce80d08914"
+  },
+  "extensao/icon32.png": {
+    "bytes": 1811,
+    "sha256": "e51f23f2e140ec63bbd2638ae988fd9a41cc1370cf77216b1764d6593a126a4d"
+  },
+  "extensao/icon48.png": {
+    "bytes": 3468,
+    "sha256": "dbfc61211303385829c7b6502a4358c8519d4a719323d6a5ca396d6551eba197"
+  },
+  "extensao/manifest.json": {
+    "bytes": 859,
+    "sha256": "eaeef255d441ff33ce1c5fa1ff4b14a7029bf1f1727da0686050fe085480fce4"
+  },
+  "extensao/popup.html": {
+    "bytes": 1886,
+    "sha256": "698ece18f29e351574116130002ec6b7d1a48cee99199ca0ae208dcce8509692"
+  },
+  "extensao/popup.js": {
+    "bytes": 3261,
+    "sha256": "169455e87001a23a7382e8880aff283442782366bb4115424597821454630513"
+  },
+  "fontes/app.py": {
+    "bytes": 50158,
+    "sha256": "b0d9e9252a72e965c5794cb77ac278657ed8767390be2c943e2bf2d0132236b7"
+  },
+  "fontes/launcher.py": {
+    "bytes": 3754,
+    "sha256": "2fafe21484f12566eb96b4492a68538f182fe6e3ed6342aaf6c8cfd7f7740d04"
+  },
+  "fontes/launcher_publico.c": {
+    "bytes": 4373,
+    "sha256": "ae4a5e8a6b771a0c37cdbf33b6f35bd69e83142bfc0f3cc1e6dc937d1f763a27"
+  },
+  "fontes/requirements-build-original.txt": {
+    "bytes": 138,
+    "sha256": "f8aec780cde5a74fde63bcdb5ea55b651121698f40ec7fcfeb7ef74860384bfc"
+  },
+  "historia/creditos-e-criacao.md": {
+    "bytes": 3111,
+    "sha256": "1403e787089d06272b7f91c5c5adb9f637d1e169c5df75ebd42a6cd5c7152e5e"
+  },
+  "historia/historia.md": {
+    "bytes": 1767,
+    "sha256": "eb6b8c9a3a9c468b0c3ab59d72b5de6a08e1a4969f6120cb0f4930b238000a88"
+  },
+  "historia/legendas-desenho.srt": {
+    "bytes": 1655,
+    "sha256": "b8271094a354388028c61e9c8c4eefea0260039eea20b8cfc0dc3df29d9b95b5"
+  },
+  "imagens/01-captura.png": {
+    "bytes": 513542,
+    "sha256": "69f673d50fac692bf826706f38e79b53c8b8948f9b0b0770bae789d0482e83e2"
+  },
+  "imagens/02-captura.png": {
+    "bytes": 602410,
+    "sha256": "20c6aaf024ea5e712ddf9ea882b0185c1cbc1bb3d036ee84711f3c154951e8db"
+  },
+  "imagens/03-captura.png": {
+    "bytes": 222810,
+    "sha256": "a995424dd2e8da006780a3ec4311a934253cefb8680739fe29214a3d98d68f22"
+  },
+  "imagens/04-captura.png": {
+    "bytes": 225572,
+    "sha256": "69131052268af39fb050993f4c9f360674131419d722278097adccfe05fa9435"
+  },
+  "imagens/05-captura.png": {
+    "bytes": 222786,
+    "sha256": "fa7ad98efcbed815fc8dfaf54cd45f28fe93d948fc01190780cc2ff7c83d28fa"
+  },
+  "videos/como-usar-no-windows.mp4": {
+    "bytes": 2356871,
+    "sha256": "1fac93c91d04de52055c13b8681f3da2c69fc6fa19830541351934e7c0530e03"
+  },
+  "videos/desenho-dns-e-shield.mp4": {
+    "bytes": 20165978,
+    "sha256": "290562418d0abf16180fbc4a6a1c54f345d43a57393044cb534b3acec157357c"
+  }
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; width: 300px; padding: 15px; background: #020617; color: white; }
+        h3 { color: #22d3ee; margin: 0 0 10px; text-align: center; font-size: 16px; }
+        input { width: 92%; padding: 10px; margin-bottom: 10px; background: #1e293b; border: 1px solid #334155; color: white; border-radius: 6px; outline: none; }
+        input:focus { border-color: #22d3ee; }
+        .btns { display: flex; gap: 8px; margin-bottom: 10px; }
+        button { flex: 1; padding: 10px; cursor: pointer; border: none; border-radius: 6px; font-weight: bold; transition: 0.2s; }
+        #btnAnal { background: #22d3ee; color: #020617; }
+        #btnAnal:hover { background: #06b6d4; }
+        #btnBloq { background: #ef4444; color: white; }
+        #btnBloq:hover { background: #dc2626; }
+        ul { list-style: none; padding: 0; max-height: 180px; overflow-y: auto; border: 1px solid #1e293b; border-radius: 6px; background: #0f172a; }
+        li { padding: 8px; font-size: 12px; border-bottom: 1px solid #1e293b; color: #cbd5e1; word-break: break-all; }
+        li:last-child { border-bottom: none; }
+        /* Scrollbar customizada */
+        ul::-webkit-scrollbar { width: 4px; }
+        ul::-webkit-scrollbar-thumb { background: #334155; border-radius: 10px; }
+    </style>
+</head>
+<body>
+    <h3>🛡️ DNS AI SHIELD PRO</h3>
+    <div id="server-status" style="font-size:12px; margin-bottom:10px; color:#94a3b8;">Servidor: verificando...</div>
+    <input type="text" id="url" placeholder="Ex: site-perigoso.com">
+    <div class="btns">
+        <button id="btnAnal">ANALISAR</button>
+        <button id="btnBloq">BLOQUEAR</button>
+    </div>
+    <ul id="lista"></ul>
+    <script src="popup.js"></script>
+</body>
+</html>

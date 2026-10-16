@@ -1,0 +1,22 @@
+DNS AI SHIELD ULTRA — COMEÇAR A USAR
+
+1. Extraia todo o ZIP para uma pasta do computador.
+2. Dê dois cliques em DNS_AI_Shield_Ultra.exe e aguarde iniciar.
+3. Clique em Abrir painel. Mantenha a janela aberta.
+4. No Google Chrome, acesse chrome://extensions e ative Modo do desenvolvedor.
+5. Clique em Carregar sem compactação e selecione a pasta extensao deste pacote.
+6. Abra DNS AI Shield Pro no menu de extensões e confira Servidor: OK.
+
+Para encerrar o servidor, feche a janela do programa.
+O EXE já inclui seu ambiente de execução: não precisa instalar Python para usar o pacote.
+
+O pacote não muda o DNS do Windows. A extensão precisa ficar instalada no navegador.
+Os dados de uso são gravados em %LOCALAPPDATA%\DNS AI Shield Ultra.
+A extensão original tem um teto de 5.000 regras. O número de domínios no banco não comprova bloqueio de todos eles.
+
+CÓPIA PÚBLICA
+O histórico inicial do banco embutido foi removido. Os arquivos de código do EXE foram preservados. A execução da cópia pública ainda não foi validada em Windows neste ambiente.
+
+Projeto de Everton Macedo.
+
+IMPORTANTE: extraia o ZIP completo. A pasta dados_programa faz parte do programa e precisa ficar junto do EXE. O iniciador reúne os arquivos automaticamente e verifica sua integridade antes de abrir o aplicativo; você não precisa juntar arquivos manualmente.
