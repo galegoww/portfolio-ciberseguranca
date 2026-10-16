@@ -1,13 +1,18 @@
-# Validação técnica da preparação
+# Verificação dos exemplos
 
-Verificações executadas no ambiente de preparação do pacote em 15/10/2026. Este registro verifica o funcionamento dos exemplos. As evidências das minhas próprias execuções serão adicionadas à pasta `evidencias/`. Estudos documentais são simulados e não foram aplicados a uma organização.
+Os exemplos foram verificados em uma pasta com a mesma organização plana utilizada neste repositório. Este registro é uma referência de funcionamento dos exemplos; as evidências das minhas execuções pessoais serão acrescentadas separadamente.
 
-- Linux: script executado, modos 755/644 alterados para 700/600 e verificados.
-- SQL: quatro consultas executadas e resultados comparados com os esperados.
-- Python: contagens, alerta e linha inválida conferidos; arquivo ausente e limiar zero retornam erro.
-- Documentação: destinos de todos os links locais conferidos.
+## Comandos a partir da raiz
 
-## Saída Linux
+```bash
+bash laboratorio.sh
+python3 executar.py
+python3 analisar.py
+```
+
+No Windows, use `py -3` em lugar de `python3`, se necessário. O laboratório Bash requer Linux.
+
+## Resultado de referência — Linux
 
 ```text
 Antes: pasta=755 arquivo=644
@@ -15,7 +20,7 @@ Depois: pasta=700 arquivo=600
 OK: somente o proprietario possui permissoes POSIX na pasta e no arquivo.
 ```
 
-## Saída SQL
+## Resultado de referência — SQL
 
 ```text
 Q1: [(2, 'bruno', '198.51.100.23'), (3, 'bruno', '198.51.100.23'), (4, 'bruno', '198.51.100.23')]
@@ -24,9 +29,9 @@ Q3: [('bruno', 3)]
 Q4: [(1, 'ana'), (7, 'ana')]
 ```
 
-## Saída Python
+## Resultado de referência — Python
 
-```json
+```text
 {
   "falhas": 4,
   "sucessos": 2,
@@ -43,3 +48,5 @@ Q4: [(1, 'ana'), (7, 'ana')]
   ]
 }
 ```
+
+Os casos de auditoria, redes, vulnerabilidades e incidentes são simulações documentais, sem avaliação de organização real.
