@@ -73,5 +73,7 @@ Os exercícios usam Bash e ferramentas GNU no Linux, Python 3 e SQLite da biblio
 ## Projetos de desenvolvimento
 
 - [DNS Monitor de Anúncios](https://github.com/galegoww/dns-monitor-anuncios.): revisão de domínios, atualização de banco SQLite e decisões de bloqueio e desbloqueio.
-- [DNS AI Shield Pro](https://github.com/galegoww/dns-monitor-anuncios./tree/main/extensao): protótipo de extensão para navegadores Chromium. O backend `app.py` ainda não foi incluído; a integração completa está pendente.
+- [DNS AI Shield Pro](https://github.com/galegoww/dns-monitor-anuncios./tree/main/extensao): extensão para navegadores Chromium integrada ao servidor local `app.py`, com chave de acesso e decisões manuais. API testada automaticamente; validação completa em navegador real ainda pendente.
 - [Guia de instalação no Windows](https://github.com/galegoww/dns-monitor-anuncios./blob/main/INSTALACAO_WINDOWS.md): pré-requisitos e instruções de uso de cada parte do projeto.
+
+- [Opção executável para Windows](https://github.com/galegoww/dns-monitor-anuncios./blob/main/EXECUTAVEL_WINDOWS.md): montagem do pacote portátil e situação do download do EXE.
