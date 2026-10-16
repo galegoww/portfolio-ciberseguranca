@@ -49,7 +49,7 @@ As instruções e os resultados esperados estão nos documentos numerados acima.
 2. Completar os campos pendentes do currículo; o curso do Google está em andamento.
 3. Executar os três laboratórios e guardar saídas próprias com data, ambiente e interpretação.
 4. Reescrever as conclusões com suas palavras e explicar cada comando.
-5. Conferir privacidade e manter o repositório privado até finalizar.
+5. Revisar os dados pessoais e atualizar as evidências antes de compartilhar novas versões.
 
 [Registro de validação técnica](VALIDACAO.md)
 
@@ -69,3 +69,9 @@ Os documentos numerados reúnem as explicações dos projetos. `CURRICULO.md` co
 ## Evidências e ferramentas
 
 Os exercícios usam Bash e ferramentas GNU no Linux, Python 3 e SQLite da biblioteca padrão. Ainda preciso acrescentar as evidências das minhas próprias execuções. Para cada uma, registrarei data, ambiente, comando, resultado e conclusão. Antes de compartilhar, revisarei os arquivos para remover dados pessoais e credenciais.
+
+## Projetos de desenvolvimento
+
+- [DNS Monitor de Anúncios](https://github.com/galegoww/dns-monitor-anuncios.): revisão de domínios, atualização de banco SQLite e decisões de bloqueio e desbloqueio.
+- [DNS AI Shield Pro](https://github.com/galegoww/dns-monitor-anuncios./tree/main/extensao): protótipo de extensão para navegadores Chromium. O backend `app.py` ainda não foi incluído; a integração completa está pendente.
+- [Guia de instalação no Windows](https://github.com/galegoww/dns-monitor-anuncios./blob/main/INSTALACAO_WINDOWS.md): pré-requisitos e instruções de uso de cada parte do projeto.
