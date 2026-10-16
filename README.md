@@ -72,8 +72,16 @@ Os exercícios usam Bash e ferramentas GNU no Linux, Python 3 e SQLite da biblio
 
 ## Projetos de desenvolvimento
 
-- [DNS Monitor de Anúncios](https://github.com/galegoww/dns-monitor-anuncios.): revisão de domínios, atualização de banco SQLite e decisões de bloqueio e desbloqueio.
-- [DNS AI Shield Pro](https://github.com/galegoww/dns-monitor-anuncios./tree/main/extensao): extensão para navegadores Chromium integrada ao servidor local `app.py`, com chave de acesso e decisões manuais. API testada automaticamente; validação completa em navegador real ainda pendente.
-- [Guia de instalação no Windows](https://github.com/galegoww/dns-monitor-anuncios./blob/main/INSTALACAO_WINDOWS.md): pré-requisitos e instruções de uso de cada parte do projeto.
+### DNS AI Shield Ultra
 
-- [Opção executável para Windows](https://github.com/galegoww/dns-monitor-anuncios./blob/main/EXECUTAVEL_WINDOWS.md): montagem do pacote portátil e situação do download do EXE.
+[Conheça o projeto, baixe o programa e veja os vídeos](https://github.com/galegoww/portfolio-ciberseguranca/tree/dns-ai-shield-ultra).
+
+Um projeto que reúne um aplicativo Windows, uma dashboard local e uma extensão para o Chrome. A apresentação inclui minhas capturas do programa, um tutorial curto de uso e o desenho animado **DNS & Shield: O Ataque do Barão Pop-up**.
+
+- [Programa e extensão para Windows](https://github.com/galegoww/portfolio-ciberseguranca/archive/refs/heads/dns-ai-shield-ultra.zip).
+- [Vídeo: como abrir o programa e adicionar a extensão](https://github.com/galegoww/portfolio-ciberseguranca/blob/dns-ai-shield-ultra/videos/como-usar-no-windows.mp4).
+- [Desenho animado: DNS & Shield](https://github.com/galegoww/portfolio-ciberseguranca/blob/dns-ai-shield-ultra/videos/desenho-dns-e-shield.mp4).
+- [Fotos e artes do projeto](https://github.com/galegoww/portfolio-ciberseguranca/tree/dns-ai-shield-ultra#o-programa-em-imagens).
+
+A versão pública tem o histórico inicial removido. Os limites e as conferências da publicação estão nas [notas da versão](https://github.com/galegoww/portfolio-ciberseguranca/blob/dns-ai-shield-ultra/NOTAS-DA-VERSAO.md).
+
